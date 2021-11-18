@@ -3,8 +3,8 @@
 ## latihan1.py
 Soal latihan1.py  <br />
 1.Tampilkan n bilangan acak yang lebih kecil dari 0.5  <br />
-2.Nilai n di isi paada saat RUN tiime  <br />
-3.anda bisa gunakan kombinasi whiledan for untuk menyelesaikan nya <br />
+2.Nilai n di isi paada saat RUN time  <br />
+3.anda bisa gunakan kombinasi while dan for untuk menyelesaikan nya <br />
 4.Gunakan fungsi random () yang dapat diimport terlebih dahulu  <br />
 
 *Algoritma latihan1  <br />
@@ -40,3 +40,26 @@ Masukan angka 0 untuk berhenti <br />
 ## Tampilan setelah di RUN 
 ![gambar4](screenshot3/sspy4.png)
 
+## program1
+Soal latihan3.py  <br />
+*Membuat program sederhana dengan perulangan  <br />
+Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal awal 100 juta, <br />
+Pada bulan pertama dan kedua belum mendapatkan laba. <br />
+Pada bulan ketiga baru mulia mendapatkan laba sebesar 1% <br />
+Pada bulan ke lima pendapatan meningkat 5% <br />
+Pada bulan ke delapan mengalami penurunan keuntungan sebesar 2%, sehingga laba menjadi 3%. <br />
+Hitung total keuntungan selama 8 bulan berjalan usahanya. <br />
+
+*Algoritma menghitung keuntungan selama 8 bulan berjalannya usaha. <br />
+1.Integer x=100000000 (modal awal) <br />
+2.Mencetak bulan pertama dan ke 2 = 0% <br />
+3.Mencetakn bulan ke 3 = 1% <br />
+4.Mencetakn bulan ke 5 = 5% <br />
+5.Mencetakn bulan ke 8 = 2%<br />
+
+## Contoh output program1
+![gambar5](screenshot3/sspy5.png)
+## Tampilan setelah di RUN
+![gambar](screenshot3/sspy6.png)
+
+# SELESAI DAN TERIMAKASIH 
