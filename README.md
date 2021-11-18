@@ -18,4 +18,4 @@ Menampilkan n bilangan acak yang lebih kecil dari 0.5 nilai n di isi saat RUN ti
 ## Contoh output nya
 ![gambar1](screenshot4/sspy1.png)
 ## Tampilan sudah di RUN dan memasukan jumlah n
-![gambar2](screensot4/sspy2.png)
+![gambar2](screenshot4/sspy2.png)
